@@ -1,0 +1,39 @@
+
+*{
+    margin: 0;
+    background-color: gray;
+}
+
+.contenedor{
+ 
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    margin-top: 3rem;
+}
+
+p{
+    font-size: xx-large;
+  
+}
+
+.p1{
+    font-size: xx-large;
+    color: red;
+
+}
+
+button{
+    margin-top: 15%;
+    padding-left: 26px;
+    padding-right: 26px;
+    font-size: xx-large;
+}
+
+#yesButton{
+    transform: translate(-100%, 0);
+}
+
+#noButton{
+    position: absolute;
+}
